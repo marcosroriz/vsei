@@ -1,0 +1,27 @@
+{
+  "name": "vsei",
+  "version": "0.1.0",
+  "description": "Script para Verificar quem assinou um documento no SEI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosroriz/vsei.git"
+  },
+  "keywords": [
+    "sei",
+    "verifica",
+    "assinatura"
+  ],
+  "author": "Marcos Roriz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/marcosroriz/vsei/issues"
+  },
+  "homepage": "https://github.com/marcosroriz/vsei#readme",
+  "dependencies": {
+    "puppeteer": "^3.3.0"
+  }
+}
